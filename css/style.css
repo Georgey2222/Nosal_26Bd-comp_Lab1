@@ -1,1 +1,112 @@
-/*css*/
+*{
+    margin: 0px;
+    font-family:sans-serif;
+    font-weight:600;
+}
+.header-1{
+height:150px;
+background-color: lightgray;
+color:black;
+display:flex;
+font-weight:600;
+justify-content:center;
+align-items:center;
+}
+.header-2{
+    height:550px;
+    background-color:darksalmon;
+    color:black;
+    display:flex;
+    font-weight:600;
+    justify-content:center;
+    align-items:center;
+    }
+.section-1{
+    width:1170px;
+    font-weight:600;
+    background-color:pink;
+    text-align: center;
+    margin:auto;
+    padding:0px;
+}
+.pp{
+    padding-block-start: 5px;
+    padding-block-end: 10px;
+}
+.ppp{
+    padding-block-start: 15px;
+}
+.div-1{
+    height: 300px;
+    font-weight:600;
+    background-color: hotpink;
+    display: flex;
+    align-items:center;
+    text-align: center;
+    justify-content: center;
+}
+.kadress{
+ display:flex;
+ flex-wrap:wrap;
+ justify-content:space-between;
+}
+.photo{
+    width:515px;
+    height:225px;
+    background-color: grey;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    margin:15px;
+}
+.section-2{
+height:400px;
+background-color: gray;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+.photo-2{
+    height: 360px;
+    width: 350px;
+    background-color:blueviolet;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    margin: 10px;
+}
+.section-3{
+    background-color:pink;
+    width:1170px;
+    margin:auto;
+}
+.p1{
+    padding:10px;
+    height:50px;
+    display:flex;
+    text-align: center;
+    align-items:center;
+    justify-content:center;
+}
+.div-2{
+    height: 300px;
+    background-color:orange;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    margin-block-end: 10px;
+}
+.div-3{
+    height:30px;
+}
+.futter{
+height:400px;
+background-color:darkgray;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+}
